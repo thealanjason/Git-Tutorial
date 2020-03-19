@@ -1,2 +1,2 @@
 # Git-Tutorial
-This is Git Tutorial by Dan Shifman
+In this repository I will be following the Git Tutorial by Dan Shiffman (The Coding Train)
